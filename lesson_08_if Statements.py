@@ -1,41 +1,37 @@
-#========================================================
-#lesson_08_if Statements
-#========================================================
+#============================================
+#Lesson-08-Membership Operators 
+#============================================
 
 
-#Exercise 1 — Age checker
-age = int(input("enter your age:"))
+#Exercise 1 — Letter Checker
 
-if age >= 18:
-    print("You are eligible")
+word = "PROGRAMMING"
+print("P" in word)
+print("Z" in word)
+print("A" not in word)
 
-#Exercise 2 — Pass or fail
 
-marks = 65 
-if marks >= 40 :
-    print("pass")
+#Exercise 2 — Fruit Checker
 
-marks = 25
-if marks >= 40 :
-    print("pass")
+fruits = ["apple", "banana", "mango", "orange"]
+print("mango" in fruits)
+print("grapes" in fruits)
 
-#Exercise 3 — Positive numbe
 
-number = int(input("enter value :"))
-if number > 0:
-    print("positive number")
+#Exercise 3 — User Input\
 
-#Exercise 4 — Divisibility check
+sentence = input("Enter a sentence: ")
+letter = input("Enter a letter: ")
 
-number = int(input("enter a value :"))
-if number % 5 == 0:
-    print("divisible by 5")
+print(letter in sentence)
 
-#Challenge — Exam-eligibility
 
-marks = int(input("enter your marks :"))
-attendance = float(input("enter your attendance :"))
-if marks >= 40 and attendance >= 75:
-    print("eligible for exam")
- 
+#🎯 Challenge — Username Checker
+
+username = input("Enter your username: ")
+
+print("Contains @:", "@" in username)
+print("Contains space:", " " in username)
+print("Does not contain 123:", "123" not in username)
+
 
