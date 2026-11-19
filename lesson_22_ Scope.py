@@ -1,5 +1,5 @@
 # =============================================
-# LESSON 18: SCOPE
+# LESSON 22: SCOPE
 # =============================================
 
 # Local variable: Created inside a function.
