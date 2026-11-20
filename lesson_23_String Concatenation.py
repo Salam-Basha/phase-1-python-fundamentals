@@ -1,5 +1,5 @@
 #=========================================================
-# LESSON 19: STRING CONCATENATION
+# LESSON 23 : STRING CONCATENATION
 #=========================================================
 
 # + joins strings: "Hello" + "World"
