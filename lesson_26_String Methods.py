@@ -1,5 +1,5 @@
 #============================================
-# LESSON 22: STRING METHODS
+# LESSON 26 : STRING METHODS
 #============================================
 
 # .upper()      -> Uppercase
