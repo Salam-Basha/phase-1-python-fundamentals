@@ -2,81 +2,65 @@
 
 Welcome to my Python learning repository!
 
-I'm a B.Tech student learning Python from the ground up.  
-This repository documents my progress as I move from Python fundamentals to advanced Python and eventually into AI/ML.
+I'm an undergraduate learning Python from the fundamentals, building programming skills through lessons, exercises, problem-solving and projects.
 
-My approach:
+## 🎯 Phase 1 — Foundations
 
-> **Learn → Practice → Build → Commit → Improve**
+<badge>Completed</badge>
+
+**Status:** 28/28 lessons completed ✅
+
+### 1. Python Basics
+- [x] 01. Python Fundamentals & Variables
+- [x] 02. Data Types & `type()`
+- [x] 03. Input & User Interaction
+- [x] 04. Type Conversion
+
+### 2. Operators
+- [x] 05. Arithmetic Operators
+- [x] 06. Comparison Operators
+- [x] 07. Logical Operators
+- [x] 08. Membership Operators
+- [x] 09. Identity Operators
+- [x] 10. Bitwise Operators
+
+### 3. Decision Making
+- [x] 11. `if` Statements
+- [x] 12. `if-else` Statements
+- [x] 13. `if-elif-else` Statements
+- [x] 14. Nested Conditions
+
+### 4. Loops
+- [x] 15. `for` Loops
+- [x] 16. `while` Loops
+- [x] 17. `range()`
+- [x] 18. `break` & `continue`
+
+### 5. Functions
+- [x] 19. Functions
+- [x] 20. Parameters & Arguments
+- [x] 21. `return`
+- [x] 22. Scope
+
+### 6. Strings
+- [x] 23. String Concatenation
+- [x] 24. F-Strings
+- [x] 25. String Indexing & Slicing
+- [x] 26. String Methods
+
+### 7. Problem Solving & Project
+- [x] 27. Problem-Solving Fundamentals
+- [x] 28. Beginner Project — Student Grade Management System
+
+## 🏁 Phase 1 Completed!
+
+Through this phase, I learned Python fundamentals, control flow, functions, strings and basic problem-solving.
+
+**Next:** Phase 2 — Python Core 🚀
 
 ---
 
-# 🗺️ Learning Roadmap
-
-## Phase 1 — Foundations
-
-- [x] 1. Python fundamentals & variables
-- [x] 2. Data types & `type()`
-- [x] 3. Input & user interaction
-- [x] 4. Type conversion
-- [x] 5. Arithmetic operators
-- [x] 6. Comparison operators
-- [x] 7. Logical operators
-- [x] 8. `if` statements
-- [x] 9. `elif` & `else`
-- [x] 10. Nested conditions
-- [x] 11. `for` loops
-- [x] 12. `while` loops
-- [x] 13. `range()`
-- [x] 14. `break` & `continue`
-- [x] 15. Functions
-- [x] 16. Parameters & arguments
-- [x] 17. `return`
-- [x] 18. Scope
-- [x] 19. String concatenation
-- [x] 20. F-strings
-- [x] 21. String indexing & slicing
-- [x] 22. String methods
-- [x] 23. Membership operators (`in`, `not in`)
-- [x] 24. Identity operators (`is`, `is not`)
-- [x] 25. Bitwise operators
-- [ ] 26. Problem-solving fundamentals
-- [ ] 27. Beginner Project 🎯
-
----
-
-## 🎯 Goal
-
-Build a strong foundation in Python and eventually use Python
-
-## 📁 Files
-
-| File | Topic |
-|---|---|
-| `hello_world.py` | First Python program |
-| `lesson_01_variables.py` | Variables |
-|`lesson_2_data types & type().py` |data types & type() |
-|`lesson_3_Input & user interaction.py`|Input & user interaction|
-|`lesson_4_Type Conversion.py`|type conversions|
-|`lesson_5_Arithmetic Operators.py`| arithmetic operators|
-|`lesson_6_Comparison Operators.py `|Comparison Operators|
-|`lesson_7_logical_operators.py`| logical operators |
-|`lesson_8_if Statements.py`|if Statements|
-|`lesson_9_if-else Statements.py`|if-else Statements|
-|`lesson_10_elif Statements.py`|elif Statements|
-|`lesson_10.3_Nested Conditions.py`| nested Conditions|
-|`lesson_11_for Loops.py`|for Loops |
-|`lesson_12_while Loops.py`|while Loops |
-|`lesson_13_range().py`|range()|
-|`lesson_14_break & continue.py`|break & continue|
-|`lesson_15_Functions.py`|Functions|
-|`lesson_16_Parameters & Arguments.py`|Parameters & Arguments|
-|`lesson_17_return.py`|return|
-|`lesson_18_ Scope.py`|Scope|
-|`lesson_19_String Concatenation.py`|String Concatenation |
-|`lesson_20_F-Strings.py`|F-Strings|
-|`lesson_21_String Indexing & Slicing.py`|String Indexing & Slicing|
-|`lesson_22_String Methods.py`|String Methods|
+*Learning step by step, one concept at a time.*
 
 
 
